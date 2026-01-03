@@ -1,6 +1,6 @@
 ## Overview
 
-This repository demonstrates principles and methodologies behind common Windows 10 backdoor techniques. It provides educational examples to understand how backdoors can be implemented, maintained, and hidden within the Windows operating system.
+This repository demonstrates principles and methodologies behind common Windows 10 backdoor techniques. It provides educational examples to understand how backdoors can be implemented, maintained, and hidden within the Windows operating system. This project is part of my learning path to enhance my malware analysis skills and deepen my cybersecurity knowledge.
 
 Note: This code is intended only for educational purposes and should not be used for any unauthorized or illegal activities. Ensure that you have appropriate permissions when testing or using this code.
 
